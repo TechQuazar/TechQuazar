@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Pranav Mohril!
+## Hi there 👋, I'm Pranav Mohril!
 I'm Pranav from India, a frontend web and mobile developer pursuing a Bachelor's degree in Computer Engineering from Pune Institute of Computer Technology. I aim to develop applications that solve or simplify daily problems. Apart from software development, I love playing video games and watch anime.
 
 Skills: REACT / REACT-NATIVE / TS / JS / BOOTSTRAP / HTML / CSS
