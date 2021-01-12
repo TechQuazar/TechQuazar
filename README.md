@@ -3,7 +3,6 @@ I'm Pranav from India, a frontend web and mobile developer pursuing a Bachelor's
 
 Skills: REACT / REACT-NATIVE / TS / JS / BOOTSTRAP / HTML / CSS
 
-- 🔭 I’m currently working on a Instagram Clone 
 - 🌱 I’m currently learning React Native and Typescript 
 
 
