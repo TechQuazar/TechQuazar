@@ -3,8 +3,8 @@ I'm Pranav from India, a frontend web and mobile developer pursuing a Bachelor's
 
 - 🌱 I’m currently learning React Native and Typescript 
 
-<h3 align="center">Technologies have worked with</h3>
-<p align="center">
+<h3 align="left">Technologies have worked with</h3>
+<p align="left">
 <img  alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img  alt="nodejs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img  alt="js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -13,10 +13,9 @@ I'm Pranav from India, a frontend web and mobile developer pursuing a Bachelor's
 <img  alt="css" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </p>
 
-<h3 align="center">Social Media Links</h3>
-<p align="center">
+<h3 align="left">Social Media Links</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/techquazar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pranav-mohril/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pranav_mohril/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pranav_mohril)  
-</p>
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=techquazar&show_icons=true)  
