@@ -1,7 +1,14 @@
 # Hi there 👋, I'm Pranav Mohril!
 I'm Pranav from India, a frontend web and mobile developer pursuing a Bachelor's degree in Computer Engineering from Pune Institute of Computer Technology. I aim to develop applications that solve or simplify daily problems. Apart from software development, I love playing video games and watch anime.
 
-Skills: REACT / REACT-NATIVE / TS / JS / BOOTSTRAP / HTML / CSS
+### Technologies that I have worked with:
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
 
 - 🌱 I’m currently learning React Native and Typescript 
 
