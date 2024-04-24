@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Pranav Mohril!
-I'm Pranav from India, a Full Stack Developer pursuing a Bachelor's degree in Computer Engineering from Pune Institute of Computer Technology. I aim to develop applications that solve or simplify daily problems. Apart from software development, I love playing video games and reading manga.
+I'm Pranav from India, a Full Stack Developer pursuing a Master's degree in Computer Science at New York University. I aim to develop applications that solve or simplify daily problems. Apart from software development, I love playing video games and reading comics.
 
 <h3 align="left">Technologies I have worked with:</h3>
 <p align="left">
